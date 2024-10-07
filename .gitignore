@@ -1,0 +1,11 @@
+appsettings.json
+appsettings.Development.json
+*.db
+*.mdf
+/bin/
+obj/
+*.bak
+*.tmp
+*.swp
+.vs/
+launchSettings.json
